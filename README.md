@@ -1,5 +1,5 @@
 ## About
-Docker-compose running a Laravel app using: php, nginx and mysql docker containers. 
+Docker-compose running a Laravel app using: php, nginx and mysql docker containers. Made with docker-compose study purposers.
 <br/>
 
 Brief summary of how the containers are structured:
