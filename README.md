@@ -15,5 +15,5 @@ Brief summary of how the containers are structured:
 2. <code>docker-compose exec php php /var/www/artisan migrate --seed</code>
 
 ## References
-* Built this docker-compose structure following <a href="https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0">this guide</a>, with minor changes in the Dockerfile's php version and laravel .env DB values.
+* Built this docker-compose structure following <a href="https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0">this fantastic article</a>, with minor changes in the Dockerfile's php version and laravel .env DB values.
 * Do not forget to give the mysql user the correct permissions!
